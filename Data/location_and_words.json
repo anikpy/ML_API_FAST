@@ -1,0 +1,26 @@
+{
+    "prohibit_location": [
+        "TBD",
+        "Global",
+        "International",
+        "Corporate",
+        "Not Specified",
+        "mehedi",
+        "karim"
+    ],
+    "ignored_words": [
+        "deutschschweiz",
+        "not",
+        "specified",
+        "any",
+        "region",
+        "home",
+        "based",
+        "unavailable",
+        "anywhere",
+        "in",
+        "hasan",
+        "ans",
+        "test"
+    ]
+}
